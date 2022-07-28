@@ -1,0 +1,16 @@
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ChapterThree.exe
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ChapterThree.deps.json
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ChapterThree.runtimeconfig.json
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ChapterThree.runtimeconfig.dev.json
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ChapterThree.dll
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ref\ChapterThree.dll
+C:\Users\USER\desktop\ChapterThree\bin\Debug\net5.0\ChapterThree.pdb
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.csproj.AssemblyReference.cache
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.AssemblyInfo.cs
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.dll
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ref\ChapterThree.dll
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.pdb
+C:\Users\USER\desktop\ChapterThree\obj\Debug\net5.0\ChapterThree.genruntimeconfig.cache

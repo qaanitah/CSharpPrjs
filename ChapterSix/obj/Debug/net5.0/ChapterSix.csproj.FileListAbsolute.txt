@@ -1,0 +1,16 @@
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ChapterSix.exe
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ChapterSix.deps.json
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ChapterSix.runtimeconfig.json
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ChapterSix.runtimeconfig.dev.json
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ChapterSix.dll
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ref\ChapterSix.dll
+C:\Users\USER\desktop\ChapterSix\bin\Debug\net5.0\ChapterSix.pdb
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.csproj.AssemblyReference.cache
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.AssemblyInfoInputs.cache
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.AssemblyInfo.cs
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.csproj.CoreCompileInputs.cache
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.dll
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ref\ChapterSix.dll
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.pdb
+C:\Users\USER\desktop\ChapterSix\obj\Debug\net5.0\ChapterSix.genruntimeconfig.cache
